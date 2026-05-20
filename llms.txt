@@ -1,0 +1,15 @@
+# Open Design Guard
+
+Open Design Guard is a hosted remote MCP for agent design system guard MCP.
+
+Website: https://opendesignguard.clauxel.com/
+Docs pattern reference: https://github.com/clauxel/MiroFish
+Primary keyword: agent design system guard MCP
+Type: MCP
+Default plan: team
+MCP endpoint: https://opendesignguard.clauxel.com/mcp
+Server card: https://opendesignguard.clauxel.com/server-card.json
+Registry name: com.clauxel.opendesignguard/opendesignguard-mcp
+Tools: check_design_guard, explain_design_gap, issue_design_receipt, suggest_agent_fix, export_design_audit
+
+Public boundary: docs-only repository; no production source code or secrets.
